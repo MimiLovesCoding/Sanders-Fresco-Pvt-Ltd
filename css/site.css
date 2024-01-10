@@ -73,8 +73,8 @@
         }
 		
 		.step-text a:hover {
-            color: white;
-			text-decoration:underline;
+            color: gold;
+	    text-decoration:underline;
         }
 
         .content {
